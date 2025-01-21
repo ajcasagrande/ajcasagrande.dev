@@ -3,9 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ajcasagrande.dev/</loc>
+    <lastmod>2025-01-17T16:16:45+00:00</lastmod>
   </url><url>
-    <loc>https://ajcasagrande.dev/categories/</loc>
+    <loc>https://ajcasagrande.dev/blogs/</loc>
+    <lastmod>2025-01-17T16:16:45+00:00</lastmod>
+  </url><url>
+    <loc>https://ajcasagrande.dev/tags/esp32/</loc>
+    <lastmod>2025-01-17T16:16:45+00:00</lastmod>
+  </url><url>
+    <loc>https://ajcasagrande.dev/blogs/python-50x-performance/</loc>
+    <lastmod>2025-01-17T16:16:45+00:00</lastmod>
+  </url><url>
+    <loc>https://ajcasagrande.dev/tags/optimization/</loc>
+    <lastmod>2025-01-17T16:16:45+00:00</lastmod>
+  </url><url>
+    <loc>https://ajcasagrande.dev/tags/python/</loc>
+    <lastmod>2025-01-17T16:16:45+00:00</lastmod>
+  </url><url>
+    <loc>https://ajcasagrande.dev/tags/regex/</loc>
+    <lastmod>2025-01-17T16:16:45+00:00</lastmod>
   </url><url>
     <loc>https://ajcasagrande.dev/tags/</loc>
+    <lastmod>2025-01-17T16:16:45+00:00</lastmod>
+  </url><url>
+    <loc>https://ajcasagrande.dev/categories/</loc>
   </url>
 </urlset>

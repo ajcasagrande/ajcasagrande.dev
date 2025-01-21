@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization on Anthony Casagrande - Personal Site</title>
+    <link>https://ajcasagrande.dev/tags/optimization/</link>
+    <description>Recent content in Optimization on Anthony Casagrande - Personal Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jan 2025 16:16:45 +0000</lastBuildDate>
+    <atom:link href="https://ajcasagrande.dev/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Made an Open Source Python Script Run 50x Faster</title>
+      <link>https://ajcasagrande.dev/blogs/python-50x-performance/</link>
+      <pubDate>Fri, 17 Jan 2025 16:16:45 +0000</pubDate>
+      <guid>https://ajcasagrande.dev/blogs/python-50x-performance/</guid>
+      <description>&lt;p&gt;Optimizing performance is an important aspect of software development, especially in embedded systems where resources are constrained. In this blog, I’ll walk you through how I achieved a 50x speedup in &lt;code&gt;idf_size.py&lt;/code&gt;, a Python script within the popular &lt;a href=&#34;https://github.com/espressif/esp-idf&#34;&gt;Espressif IoT Development Framework (ESP-IDF)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This transformation not only improved developer workflows but also highlighted the power of targeted optimizations.&lt;/p&gt;&#xA;&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;&#xA;&lt;p&gt;&lt;code&gt;idf_size.py&lt;/code&gt; plays a crucial role in analyzing memory usage for ESP32 firmware, focusing on the efficient utilization of limited resources like Instruction RAM (IRAM) and Data RAM (DRAM). While essential for optimizing firmware, the script&amp;rsquo;s slow execution time, particularly when processing large &lt;code&gt;.map&lt;/code&gt; files, hindered developer workflows and productivity.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
