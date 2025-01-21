@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ajcasagrande.github.io/hugo-profile/</loc>
+    <loc>https://ajcasagrande.dev/</loc>
   </url><url>
-    <loc>https://ajcasagrande.github.io/hugo-profile/categories/</loc>
+    <loc>https://ajcasagrande.dev/categories/</loc>
   </url><url>
-    <loc>https://ajcasagrande.github.io/hugo-profile/tags/</loc>
+    <loc>https://ajcasagrande.dev/tags/</loc>
   </url>
 </urlset>
